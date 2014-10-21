@@ -1,0 +1,4 @@
+./src/bitmask.c
+./src/ipfix.c
+./include/libopenipfix/bitmask.h
+./include/libopenipfix/ipfix.h
